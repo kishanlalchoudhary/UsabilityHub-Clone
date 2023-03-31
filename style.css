@@ -1,6 +1,8 @@
+/* Importing required fonts */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&family=Roboto:wght@400;700&display=swap');
 
 /* Css reset */
+
 * {
     margin: 0;
     padding: 0;
@@ -8,6 +10,7 @@
 }
 
 /* Defining variables */
+
 :root {
     --primary-text-color: #183b56;
     --secondary-text-color: #577592;
@@ -17,6 +20,7 @@
 }
 
 /* Setting font style and color */
+
 body {
     font-family: 'Poppins', sans-serif;
     color: var(--primary-text-color);
@@ -51,6 +55,7 @@ ul {
 }
 
 /* utility classes */
+
 .small-bold-text {
     font-size: 1rem;
     font-weight: 700;
