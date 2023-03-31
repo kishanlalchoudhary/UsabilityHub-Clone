@@ -15,4 +15,4 @@ This is a short project in which I created a clone of UsabilityHub's landing pag
   <img src="https://user-images.githubusercontent.com/107745828/229157707-e865151c-a8a6-4de4-81ee-30778f681d6d.png" alt="FetchApi - React">
 </p>
 
-## [Deployed Project link](https://usabilityhub-clone-project.netlify.app/)
+<h2 align="center">Deployed Project link - https://usabilityhub-clone-project.netlify.app/</h1>
