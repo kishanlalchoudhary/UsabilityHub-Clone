@@ -1,4 +1,4 @@
-# UsabilityHub-Clone
+# UsabilityHub Clone
 
 This is a mini project in which I created a clone of UsabilityHub's landing page to learn how to use the AOS library of javascript for animation and to revise HTML and CSS fundamentals.
 
