@@ -1,13 +1,13 @@
 # UsabilityHub Clone
 
-This is a mini project in which I created a clone of UsabilityHub's landing page to learn how to use the AOS library of javascript for animation and to revise HTML and CSS fundamentals.
+This mini project is a clone of UsabilityHub's landing page, created to explore the AOS library for JavaScript animations and to revise HTML and CSS fundamentals.
 
 ## Features
 
-- Contains a variety of sections.
-- Attractive and appealing user interface.
-- Complete responsiveness across all devices.
-- Wonderful animations throughout the website.
+-Includes various sections replicating the original design.
+-Designed with an attractive and appealing user interface.
+-Ensured complete responsiveness across all devices.
+-Integrated wonderful animations using the AOS library.
 
 ## Screenshot
 
