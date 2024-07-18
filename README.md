@@ -4,10 +4,10 @@ This mini project is a clone of UsabilityHub's landing page, created to explore 
 
 ## Features
 
--Includes various sections replicating the original design.
--Designed with an attractive and appealing user interface.
--Ensured complete responsiveness across all devices.
--Integrated wonderful animations using the AOS library.
+- Includes various sections replicating the original design.
+- Designed with an attractive and appealing user interface.
+- Ensured complete responsiveness across all devices.
+- Integrated wonderful animations using the AOS library.
 
 ## Screenshot
 
